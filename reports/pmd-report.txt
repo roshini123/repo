@@ -1,0 +1,114 @@
+src/trial.java:2:	Avoid unused imports such as 'java.lang.reflect.AccessibleObject'
+src/trial.java:3:	Avoid unused imports such as 'java.lang.reflect.Method'
+src/trial.java:4:	Avoid unused imports such as 'java.security.PrivilegedAction'
+src/trial.java:6:	Abstract classes should be named AbstractXXX
+src/trial.java:6:	All classes and interfaces must belong to a named package
+src/trial.java:6:	Avoid short class names like Foo
+src/trial.java:6:	Each class should declare at least one constructor
+src/trial.java:6:	This abstract class does not have any abstract methods
+src/trial.java:6:	headerCommentRequirement Required
+src/trial.java:8:	Avoid unused local variables such as 'a'.
+src/trial.java:8:	Avoid variables with short names like a
+src/trial.java:8:	Found 'DU'-anomaly for variable 'a' (lines '8'-'8').
+src/trial.java:8:	Local variable 'a' could be declared final
+src/trial.java:8:	To avoid mistakes add a comment at the beginning of the method1 method if you want a default access modifier
+src/trial.java:8:	Use explicit scoping instead of the default package private level
+src/trial.java:9:	Avoid unused local variables such as 'b'.
+src/trial.java:9:	Avoid variables with short names like b
+src/trial.java:9:	Found 'DU'-anomaly for variable 'b' (lines '9'-'9').
+src/trial.java:9:	Local variable 'b' could be declared final
+src/trial.java:9:	To avoid mistakes add a comment at the beginning of the method2 method if you want a default access modifier
+src/trial.java:9:	Use explicit scoping instead of the default package private level
+src/trial.java:11:	Abstract classes should be named AbstractXXX
+src/trial.java:11:	All classes and interfaces must belong to a named package
+src/trial.java:11:	Avoid short class names like Foo1
+src/trial.java:11:	Each class should declare at least one constructor
+src/trial.java:11:	This abstract class does not have any abstract methods
+src/trial.java:11:	headerCommentRequirement Required
+src/trial.java:13:	Avoid unused local variables such as 'a'.
+src/trial.java:13:	Avoid variables with short names like a
+src/trial.java:13:	Found 'DU'-anomaly for variable 'a' (lines '13'-'13').
+src/trial.java:13:	Local variable 'a' could be declared final
+src/trial.java:13:	To avoid mistakes add a comment at the beginning of the method1 method if you want a default access modifier
+src/trial.java:13:	Use explicit scoping instead of the default package private level
+src/trial.java:14:	Avoid unused local variables such as 'b'.
+src/trial.java:14:	Avoid variables with short names like b
+src/trial.java:14:	Found 'DU'-anomaly for variable 'b' (lines '14'-'14').
+src/trial.java:14:	Local variable 'b' could be declared final
+src/trial.java:14:	To avoid mistakes add a comment at the beginning of the method2 method if you want a default access modifier
+src/trial.java:14:	Use explicit scoping instead of the default package private level
+src/trial.java:17:	All classes and interfaces must belong to a named package
+src/trial.java:17:	Avoid short class names like Foo2
+src/trial.java:17:	Each class should declare at least one constructor
+src/trial.java:17:	headerCommentRequirement Required
+src/trial.java:19:	Avoid unused local variables such as 'a'.
+src/trial.java:19:	Avoid variables with short names like a
+src/trial.java:19:	Local variable 'a' could be declared final
+src/trial.java:19:	publicMethodCommentRequirement Required
+src/trial.java:20:	Avoid unused local variables such as 'a'.
+src/trial.java:20:	Avoid variables with short names like a
+src/trial.java:20:	Local variable 'a' could be declared final
+src/trial.java:20:	publicMethodCommentRequirement Required
+src/trial.java:25:	All classes and interfaces must belong to a named package
+src/trial.java:25:	Class names should begin with an uppercase character
+src/trial.java:25:	headerCommentRequirement Required
+src/trial.java:26:	Avoid unused private fields such as 'length'.
+src/trial.java:26:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/trial.java:26:	Perhaps 'length' could be replaced by a local variable.
+src/trial.java:26:	Private field 'length' could be made final; it is only initialized in the declaration or constructor.
+src/trial.java:26:	fieldCommentRequirement Required
+src/trial.java:29:	Avoid unused private fields such as 'x'.
+src/trial.java:29:	Avoid variables with short names like x
+src/trial.java:29:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/trial.java:29:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/trial.java:29:	Perhaps 'x' could be replaced by a local variable.
+src/trial.java:29:	fieldCommentRequirement Required
+src/trial.java:30:	Consider using varargs for methods or constructors which take an array the last parameter.
+src/trial.java:30:	Parameter 'param' is not assigned and could be declared final
+src/trial.java:30:	The user-supplied array 'param' is stored directly.
+src/trial.java:30:	publicMethodCommentRequirement Required
+src/trial.java:35:	publicMethodCommentRequirement Required
+src/trial.java:40:	Avoid variables with short names like x1
+src/trial.java:40:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/trial.java:40:	To avoid mistakes add a comment at the beginning of the x1 field if you want a default access modifier
+src/trial.java:40:	Use explicit scoping instead of the default package private level
+src/trial.java:40:	fieldCommentRequirement Required
+src/trial.java:41:	Avoid variables with short names like y
+src/trial.java:41:	Method names should not start with capital letters
+src/trial.java:41:	Parameter 'y' is not assigned and could be declared final
+src/trial.java:41:	publicMethodCommentRequirement Required
+src/trial.java:45:	publicMethodCommentRequirement Required
+src/trial.java:47:	Local variable 'arrayOfClass' could be declared final
+src/trial.java:48:	You should modify visibility of class or methods using getDeclaredConstructors(), getDeclaredConstructor(Class[]), setAccessible() or PrivilegedAction.
+src/trial.java:49:	You should modify visibility of class or methods using getDeclaredConstructors(), getDeclaredConstructor(Class[]), setAccessible() or PrivilegedAction.
+src/trial.java:53:	Parameter 'args' is not assigned and could be declared final
+src/trial.java:53:	publicMethodCommentRequirement Required
+src/trial.java:54:	Avoid unused local variables such as 's'.
+src/trial.java:54:	Avoid variables with short names like s
+src/trial.java:54:	Do not add empty strings
+src/trial.java:54:	Found 'DU'-anomaly for variable 's' (lines '54'-'76').
+src/trial.java:54:	Local variable 's' could be declared final
+src/trial.java:56:	Avoid variables with short names like sb
+src/trial.java:56:	Local variable 'sb' could be declared final
+src/trial.java:57:	Avoid appending characters as strings in StringBuffer.append.
+src/trial.java:57:	Potential violation of Law of Demeter (object not created locally)
+src/trial.java:59:	Avoid unused local variables such as 'xx'.
+src/trial.java:59:	Avoid variables with short names like xx
+src/trial.java:61:	Avoid assignments in operands
+src/trial.java:61:	Avoid using Literals in Conditional Statements
+src/trial.java:61:	Found 'DU'-anomaly for variable 'xx' (lines '61'-'76').
+src/trial.java:62:	System.out.println is used
+src/trial.java:65:	Avoid variables with short names like a
+src/trial.java:65:	Found 'DU'-anomaly for variable 'a' (lines '65'-'76').
+src/trial.java:65:	Local variable 'a' could be declared final
+src/trial.java:66:	Avoid variables with short names like b
+src/trial.java:66:	Found 'DD'-anomaly for variable 'b' (lines '66'-'74').
+src/trial.java:66:	Found 'DU'-anomaly for variable 'b' (lines '66'-'76').
+src/trial.java:67:	Avoid variables with short names like c
+src/trial.java:67:	Found 'DD'-anomaly for variable 'c' (lines '67'-'69').
+src/trial.java:67:	Found 'DU'-anomaly for variable 'c' (lines '67'-'76').
+src/trial.java:68:	System.arraycopy is more efficient
+src/trial.java:69:	Found 'DD'-anomaly for variable 'c' (lines '69'-'69').
+src/trial.java:69:	Found 'DU'-anomaly for variable 'c' (lines '69'-'76').
+src/trial.java:74:	Found 'DD'-anomaly for variable 'b' (lines '74'-'74').
+src/trial.java:74:	Found 'DU'-anomaly for variable 'b' (lines '74'-'76').
